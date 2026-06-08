@@ -54,6 +54,15 @@ Analyzed real data from Olist — Brazil's largest e-commerce platform. Joined 8
 
 📥 [Download Power BI File]https://drive.google.com/file/d/1DpZu3OGdffUZFgXGREUoR8_id8JeXKOr/view?usp=drive_link
 
+
+### 4.
+📜 Certifications
+- **Data Visualisation: Empowering Business with Effective Insights**  
+  Tata Group | Forage | June 2026  
+  Credential ID: Av2gNBPqtpQNvcPBx  
+  Skills: Data Visualization, Data Analysis, Data Cleaning, 
+  Data Presentation, Effective Communication
+  📥 [Download Certificate]: https://www.theforage.com/certificates
 ---
 
 ## 🛠️ Tools & Skills
