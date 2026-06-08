@@ -62,11 +62,12 @@ Analyzed real data from Olist — Brazil's largest e-commerce platform. Joined 8
   Credential ID: Av2gNBPqtpQNvcPBx  
   Skills: Data Visualization, Data Analysis, Data Cleaning, 
   Data Presentation, Effective Communication
-  📥 [Download Certificate]: DataVisualisation_certificate.pdf
+  📥 [Download Certificate]:https://github.com/Sumit-gill/Data-Analytics-Projects/blob/a04ef530799a0b820b2e1fce1cbcde322981f027/DataVisualisation_certificate.pdf
   
 ---
 
 ## 🛠️ Tools & Skills
+
 
 | Tool | Usage |
 |------|-------|
