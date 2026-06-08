@@ -62,7 +62,8 @@ Analyzed real data from Olist — Brazil's largest e-commerce platform. Joined 8
   Credential ID: Av2gNBPqtpQNvcPBx  
   Skills: Data Visualization, Data Analysis, Data Cleaning, 
   Data Presentation, Effective Communication
-  📥 [Download Certificate]: https://www.theforage.com/certificates
+  📥 [Download Certificate]: DataVisualisation_certificate.pdf
+  
 ---
 
 ## 🛠️ Tools & Skills
