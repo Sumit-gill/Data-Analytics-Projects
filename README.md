@@ -99,7 +99,7 @@ An interactive Power BI dashboard analyzing Amazon's global sales data across mu
 | Data Analytics Job Simulation | Deloitte · Forage | May 2026 | f3KsmCov2GufeQzrB |
 | IT Architecture Job Simulation | BCG Platinion · Forage | Jan 2026 | ruugSn9vHSjg925Pa |
 | Deloitte Cyber Job Simulation  | Deloitte · Forage | June 2025 | ohBbBK4dZJaStdFeF |
-| TATA Cybersecurity Analyst Job Simulation |  Tata Group · Forage | HdPCRWqHmfg9oFEWn |
+| TATA Cybersecurity Analyst Job Simulation |  Tata Group · Forage | August 2025 |HdPCRWqHmfg9oFEWn |
 
 📥 [Download TATA Certificate](https://github.com/Sumit-gill/Data-Analytics-Projects/blob/a04ef530799a0b820b2e1fce1cbcde322981f027/DataVisualisation_certificate.pdf)
 
