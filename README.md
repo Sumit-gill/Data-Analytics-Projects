@@ -76,6 +76,33 @@ Analyzed real data from Olist — Brazil's largest e-commerce platform. Joined 8
 | SQL | Data Querying (MySQL) |
 | GitHub | Version Control, Portfolio |
 
+###5.
+## Amazon Global Sales Dashboard | Power BI
+
+An interactive Power BI dashboard analyzing Amazon's global sales data 
+across multiple dimensions including markets, categories, shipping modes, 
+and geographies.
+
+### 📊 Key Metrics
+- Total Quantity: 178K units
+- Total Sales: $12.64M
+- Total Profit: $1.47M
+- Shipping Cost: $1.35M
+
+### 🔍 Visuals Included
+- Sales by Ship Mode (Area Chart)
+- Sales by Country (Bar Chart)
+- Sales by City (Horizontal Bar Chart)
+- Sales by Category (Pie Chart)
+- Sales by Market (Donut Chart)
+- Interactive filters: Category & Market slicers
+
+### 🛠️ Tools Used
+Power BI | DAX | Excel (ECOMM Dataset)
+
+### 📁 Dataset
+Amazon E-Commerce Sales Dataset (Kaggle)
+
 ---
 
 ## 📬 Connect With Me
